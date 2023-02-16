@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979398650892",
+    "project_id": "realtime-test-c58a1",
+    "storage_bucket": "realtime-test-c58a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979398650892:android:2860890d09799dac119229",
+        "android_client_info": {
+          "package_name": "com.example.realtimetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979398650892-1i80ice753b4iqiodqhusiq5hps5tun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoK1PIjnTn235jLi-qIJVcmaMJqZH55BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979398650892-1i80ice753b4iqiodqhusiq5hps5tun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
